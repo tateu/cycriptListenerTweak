@@ -1,0 +1,10 @@
+Package: net.tateu.cycriptlistenertweak
+Name: cycriptListenerTweak
+Depends: firmware (>=11.0), mobilesubstrate, Cycript
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: CYListenServer on port 8556.
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Section: System
+Tag: role::developer
